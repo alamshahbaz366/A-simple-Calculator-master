@@ -1,5 +1,6 @@
 # A simple Calculator
 > A simple calculator using HTML, CSS & Javascript
+> Link: https://alamshahbaz366.github.io/A-simple-Calculator-master/
 
 > Functional elements: Display screen, 17 buttons
 
