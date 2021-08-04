@@ -1,5 +1,5 @@
 # A simple Calculator
-> A simple calculator using HTML, CSS &amp; Javascript
+> A simple calculator using HTML, CSS & Javascript
 > Functional elements: Display screen, 17 buttons
 > Can perform basic operation of addition, subtraction, multiplication & division
 
