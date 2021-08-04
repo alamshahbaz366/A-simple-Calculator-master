@@ -5,6 +5,8 @@
 
 > Can perform basic operation of addition, subtraction, multiplication & division
 
+![cal pic](https://user-images.githubusercontent.com/88443812/128200960-50d50278-9253-4f9e-b6e1-e30f2b701a35.jpg)
+
 ![title-pic](https://user-images.githubusercontent.com/39196039/40139639-27db8c64-596e-11e8-9537-04a5b5d07170.jpg)
 
 This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
